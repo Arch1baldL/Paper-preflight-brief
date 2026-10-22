@@ -7,7 +7,6 @@ A Codex skill that prepares a structured, source-grounded brief for close readin
 - `skills/paper-preflight-brief/SKILL.md` — skill instructions
 - `skills/paper-preflight-brief/references/brief-template.md` — output template
 - `skills/paper-preflight-brief/agents/openai.yaml` — display metadata
-- `skills/paper-preflight-brief/assets/icon.svg` — skill icon
 
 ## Install
 
