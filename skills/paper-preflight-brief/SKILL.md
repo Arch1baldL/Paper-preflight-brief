@@ -7,7 +7,7 @@ description: "Use Paper Preflight Brief to create a Paper Brief (Paper 简报) f
 
 Create a concise, source-grounded companion to close reading. Preserve the five-part structure, with the Checklist divided into Background and Low-Frequency Vocabulary. Distinguish the author's observations from interpretations. Keep the aviation metaphor limited to the established Waypoints and Landing Check labels.
 
-The software name is Paper Preflight Brief; the report title remains Paper Brief. The current Skill release is `1.0.0`. Display `*Paper Preflight Brief · v1.0.0*` immediately below the `Paper Brief` H1, using only Markdown italics. Keep that displayed version synchronized with the Skill release. For future Skill updates, bump the patch number for corrections, the minor number for backward-compatible additions, and the major number for incompatible format or behavior changes.
+The software name is Paper Preflight Brief; the report title remains Paper Brief. The current Skill release is `1.0.0`. Treat the release stated in this file as authoritative. When producing a brief, read this release value and replace `{{SKILL_RELEASE}}` in the output template with it; do not copy a stale version from another source. Display the resulting version line immediately below the `Paper Brief` H1, using only Markdown italics. For future Skill updates, bump the patch number for corrections, the minor number for backward-compatible additions, and the major number for incompatible format or behavior changes.
 
 ## Acquire the source
 

@@ -1,10 +1,10 @@
 # Output template
 
-Replace bracketed placeholders with source-grounded content. Adapt item counts to the paper. Use English unless explicitly asked otherwise. Do not display template instructions or empty placeholders.
+Replace placeholders with source-grounded content. Read the current Skill release from `skills/paper-preflight-brief/SKILL.md` and substitute it for `{{SKILL_RELEASE}}`. Adapt item counts to the paper. Use English unless explicitly asked otherwise. Do not display template instructions or unresolved placeholders.
 
 # Paper Brief
 
-*Paper Preflight Brief · v1.0.0*
+*Paper Preflight Brief · v{{SKILL_RELEASE}}*
 
 **Tittle:** [Verified full article title]\
 **Authors:** [All verified authors, separated by semicolons]\
